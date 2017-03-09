@@ -1,0 +1,23 @@
+{
+  "name": "simplechurchwebsite01",
+  "version": "0.0.1",
+  "description": "Simple one page church website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevanmontoya/simplechurchwebsite.git"
+  },
+  "author": "Pastor Estevan Montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevanmontoya/simplechurchwebsite/issues"
+  },
+  "homepage": "https://github.com/estevanmontoya/simplechurchwebsite#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  }
+}
